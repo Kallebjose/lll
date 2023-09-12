@@ -5,6 +5,7 @@ function verificar(){
 		 document.getElementById("txtPratPrin").focus();
 		 document.getElementById("txtPratPrin").style.backgroundColor="#FF0000";
 		 return false;
+		  suadhuisdgiadgaisd
 	}
 	else if(isNaN(n1)){
 	     window.alert("digite APENAS números para a reserva");
